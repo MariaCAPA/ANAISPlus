@@ -1,0 +1,32 @@
+.L SiPM_calibration.C 
+for(int i=114; i<=124; i++) SiPM_calibration(i,300,450);
+for(int i=122; i<=124; i++) SiPM_calibration(i,300,650);
+for(int i=122; i<=124; i++) SiPM_calibration(i,450,650);
+for(int i=139; i<=149; i++) SiPM_calibration(i,300,450);
+for(int i=147; i<=149; i++) SiPM_calibration(i,400,650);
+for(int i=148; i<=149; i++) SiPM_calibration(i,400,850);
+for(int i=147; i<=147; i++) SiPM_calibration(i,600,650);
+for(int i=147; i<=147; i++) SiPM_calibration(i,300,650);
+for(int i=147; i<=147; i++) SiPM_calibration(i,350,650);
+for(int i=167; i<=174; i++) SiPM_calibration(i,300,450);
+for(int i=173; i<=173; i++) SiPM_calibration(i,400,450);
+for(int i=174; i<=179; i++) SiPM_calibration(i,400,650);
+for(int i=177; i<=179; i++) SiPM_calibration(i,550,750);
+for(int i=177; i<=179; i++) SiPM_calibration(i,750,850);
+for(int i=177; i<=179; i++) SiPM_calibration(i,450,700);
+for(int i=177; i<=179; i++) SiPM_calibration(i,450,800);
+for(int i=196; i<=204; i++) SiPM_calibration(i,300,450);
+for(int i=204; i<=204; i++) SiPM_calibration(i,500,650);
+for(int i=204; i<=208; i++) SiPM_calibration(i,500,650);
+for(int i=206; i<=208; i++) SiPM_calibration(i,600,750);
+for(int i=206; i<=208; i++) SiPM_calibration(i,800,750);
+for(int i=225; i<=232; i++) SiPM_calibration(i,350,450);
+for(int i=233; i<=237; i++) SiPM_calibration(i,550,650);
+for(int i=237; i<=237; i++) SiPM_calibration(i,750,750);
+for(int i=237; i<=237; i++) SiPM_calibration(i,450,750);
+for(int i=254; i<=266; i++) SiPM_calibration(i,450,750);
+for(int i=254; i<=266; i++) SiPM_calibration(i,300,550);
+for(int i=254; i<=266; i++) SiPM_calibration(i,400,550);
+for(int i=260; i<=266; i++) SiPM_calibration(i,400,650);
+
+
